@@ -27,6 +27,9 @@ md : https://docs.microsoft.com/en-us/windows-server/administration/windows-comm
 rmdir : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/rmdir <br />
 rd : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/rd <br />
 move : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/move <br />
+copy : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/copy <br />
+xcopy : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy <br />
+robocopy : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
