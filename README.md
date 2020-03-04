@@ -20,7 +20,10 @@ Windows Command Line originally created by Therese Stowell : https://github.com/
 ## 2. Official references websites. 
 Windows Command Prompt official documentation : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands <br />
 
-**_Windows command line documentation by Microsoft_** <br />
+**_Windows Command Prompt related technologies_** <br />
+Notepad++ : https://notepad-plus-plus.org <br />
+
+**_Windows Command Prompt documentation by Microsoft_** <br />
 dir : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dir <br />
 cd : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd <br />
 mkdir : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mkdir <br />
