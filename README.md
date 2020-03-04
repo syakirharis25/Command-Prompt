@@ -30,6 +30,8 @@ move : https://docs.microsoft.com/en-us/windows-server/administration/windows-co
 copy : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/copy <br />
 xcopy : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy <br />
 robocopy : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy <br />
+rename : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/rename <br />
+ren : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ren <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
