@@ -10,7 +10,7 @@ My works related to Windows Command Prompt.
 <a name="introduction"></a>
 ## 1. Introduction.
 <img src="webassembly.png" height="150"> 
-The command line, also called the Windows command line, command screen, or text interface, is a user interface that is navigated by typing commands at prompts, instead of using the mouse. For example, the Windows folder in a Windows command line is "C:\Windows>" (as shown in the picture). In Unix or Linux, it may be "%" or ">" depending on the shell. Unlike a GUI (graphical user interface) operating system, a command line only uses a keyboard to navigate by entering commands and does not utilize a mouse for navigating.
+The command line, also called the Windows command line, command screen, or text interface, is a user interface that is navigated by typing commands at prompts, instead of using the mouse. For example, the Windows folder in a Windows command line is "C:\Windows>". Unlike a GUI (graphical user interface) operating system, a command line only uses a keyboard to navigate by entering commands and does not utilize a mouse for navigating.
 <br /><br />
 cmd.exe interacts with the user through a command-line interface. In Windows, this interface is implemented through the Win32 console. cmd.exe may take advantage of features available to native programs of its own platform. For example, in OS/2, it can use real pipes in command pipelines, allowing both sides of the pipeline to run concurrently. As a result, it is possible to redirect the standard error stream. (COMMAND.COM uses temporary files, and runs the two sides serially, one after the other.)
 
