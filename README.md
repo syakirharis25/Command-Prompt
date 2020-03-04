@@ -57,12 +57,12 @@ Batch Script - Operators by tutorialpoints : https://www.tutorialspoint.com/batc
 
 <a name="shortcuts"></a>
 ## 3. Command Prompt shortcuts.
-**[ Tab ]** : autocomplete folder or file name
-**[ ↑ ]** : scroll up the previous history commands
-**[ ↓ ]** : scroll down the previous history commands
-**[ Fn ]** + **[ F7 ]** : show history of commands
-**[ Alt ]** + **[ Fn ]** + **[ F7 ]** : clear commands history
-**[ Ctrl ]** + **[ C ]** : : abort current command or process 
+**[ Tab ]** : autocomplete folder or file name <br />
+**[ ↑ ]** : scroll up the previous history commands <br />
+**[ ↓ ]** : scroll down the previous history commands <br />
+**[ Fn ]** + **[ F7 ]** : show history of commands <br />
+**[ Alt ]** + **[ Fn ]** + **[ F7 ]** : clear commands history <br />
+**[ Ctrl ]** + **[ C ]** : : abort current command or process <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
