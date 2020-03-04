@@ -19,6 +19,9 @@ Windows Command Line originally created by Therese Stowell : https://github.com/
 ## 2. Official references websites. 
 Windows Command Prompt official documentation : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands <br />
 
+**_Windows command line documentation by Microsoft_**
+dir : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dir <br />
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
