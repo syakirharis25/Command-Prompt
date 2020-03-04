@@ -40,6 +40,8 @@ ipconfig : https://docs.microsoft.com/en-us/windows-server/administration/window
 nslookup : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup <br />
 netstat : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/netstat <br />
 ping : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ping <br />
+tracert : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracert <br />
+pathping : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/pathping <br />
 
 **_Windows command line related articles_** <br />
 Redirect Output from the Windows Command Line to a Text File by HELP DESK GEEK : https://helpdeskgeek.com/how-to/redirect-output-from-command-line-to-text-file/ <br />
