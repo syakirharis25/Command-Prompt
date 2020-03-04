@@ -47,9 +47,10 @@ tracert : https://docs.microsoft.com/en-us/windows-server/administration/windows
 pathping : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/pathping <br />
 arp : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/arp <br />
 
-**_Windows command line related articles_** <br />
+**_Windows Command Prompt related articles_** <br />
 Redirect Output from the Windows Command Line to a Text File by HELP DESK GEEK : https://helpdeskgeek.com/how-to/redirect-output-from-command-line-to-text-file/ <br />
 What’s the Difference Between Windows and Windows Server? by Josh Hendrickson : https://www.howtogeek.com/404763/whats-the-difference-between-windows-and-windows-server/ <br />
+Batch Script - Operators by tutorialpoints : https://www.tutorialspoint.com/batch_script/batch_script_operators.htm <br />
 
 <a name="shortcuts"></a>
 ## 3. Command Prompt shortcuts.
