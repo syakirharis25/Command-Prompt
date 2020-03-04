@@ -4,8 +4,9 @@ My works related to Windows Command Prompt.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Command Prompt shortcuts.](#shortcuts)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -39,8 +40,16 @@ sort : https://docs.microsoft.com/en-us/windows-server/administration/windows-co
 **_Windows command line related articles_** <br />
 Redirect Output from the Windows Command Line to a Text File by HELP DESK GEEK : https://helpdeskgeek.com/how-to/redirect-output-from-command-line-to-text-file/ <br />
 
+<a name="shortcuts"></a>
+## 3. Command Prompt shortcuts.
+[ Tab ] : autocomplete folder or file name
+[ ↑ ] : scroll up the previous history commands
+[ ↓ ] : scroll down the previous history commands
+[ Fn ] + [ F7 ] : show history of commands
+[ Alt ] + [ Fn ] + [ F7 ] : clear commands history
+
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Command-Prompt.git
