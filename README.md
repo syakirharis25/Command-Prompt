@@ -38,6 +38,7 @@ more : https://docs.microsoft.com/en-us/windows-server/administration/windows-co
 sort : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/sort <br />
 ipconfig : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig <br />
 nslookup : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup <br />
+netstat : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/netstat <br />
 
 **_Windows command line related articles_** <br />
 Redirect Output from the Windows Command Line to a Text File by HELP DESK GEEK : https://helpdeskgeek.com/how-to/redirect-output-from-command-line-to-text-file/ <br />
