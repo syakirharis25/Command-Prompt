@@ -36,6 +36,7 @@ ren : https://docs.microsoft.com/en-us/windows-server/administration/windows-com
 del : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/del <br />
 more : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/more <br />
 sort : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/sort <br />
+ipconfig : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig <br />
 
 **_Windows command line related articles_** <br />
 Redirect Output from the Windows Command Line to a Text File by HELP DESK GEEK : https://helpdeskgeek.com/how-to/redirect-output-from-command-line-to-text-file/ <br />
