@@ -26,6 +26,7 @@ mkdir : https://docs.microsoft.com/en-us/windows-server/administration/windows-c
 md : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/md <br />
 rmdir : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/rmdir <br />
 rd : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/rd <br />
+move : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/move <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
