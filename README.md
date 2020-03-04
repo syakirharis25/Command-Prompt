@@ -46,6 +46,7 @@ ping : https://docs.microsoft.com/en-us/windows-server/administration/windows-co
 tracert : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracert <br />
 pathping : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/pathping <br />
 arp : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/arp <br />
+call : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/call <br />
 
 **_Windows Command Prompt related articles_** <br />
 Redirect Output from the Windows Command Line to a Text File by HELP DESK GEEK : https://helpdeskgeek.com/how-to/redirect-output-from-command-line-to-text-file/ <br />
