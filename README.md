@@ -32,6 +32,7 @@ xcopy : https://docs.microsoft.com/en-us/windows-server/administration/windows-c
 robocopy : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy <br />
 rename : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/rename <br />
 ren : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ren <br />
+del : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/del <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
