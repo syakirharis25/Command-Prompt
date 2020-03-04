@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is CE7F-4FA3
+
+ Directory of C:\cmd\temp
+
+04-Mar-20  08:46 PM    <DIR>          .
+04-Mar-20  08:46 PM    <DIR>          ..
+04-Mar-20  08:46 PM                 0 folder.txt
+04-Mar-20  08:29 PM                23 textfile.txt
+04-Mar-20  08:29 PM                23 textfile2.txt
+               3 File(s)             46 bytes
+               2 Dir(s)  636,503,842,816 bytes free
