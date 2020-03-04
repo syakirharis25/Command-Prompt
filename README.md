@@ -22,6 +22,8 @@ Windows Command Prompt official documentation : https://docs.microsoft.com/en-us
 **_Windows command line documentation by Microsoft_** <br />
 dir : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dir <br />
 cd : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd <br />
+mkdir : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mkdir <br />
+md : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/md <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
