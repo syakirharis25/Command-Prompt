@@ -54,6 +54,7 @@ endlocal : https://docs.microsoft.com/en-us/windows-server/administration/window
 Redirect Output from the Windows Command Line to a Text File by HELP DESK GEEK : https://helpdeskgeek.com/how-to/redirect-output-from-command-line-to-text-file/ <br />
 What’s the Difference Between Windows and Windows Server? by Josh Hendrickson : https://www.howtogeek.com/404763/whats-the-difference-between-windows-and-windows-server/ <br />
 Batch Script - Operators by tutorialpoints : https://www.tutorialspoint.com/batch_script/batch_script_operators.htm <br />
+How to create a directory or folder : https://www.computerhope.com/issues/ch000742.htm <br />
 
 <a name="shortcuts"></a>
 ## 3. Command Prompt shortcuts.
