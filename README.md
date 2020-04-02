@@ -49,6 +49,7 @@ arp : https://docs.microsoft.com/en-us/windows-server/administration/windows-com
 call : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/call <br />
 setlocal : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/setlocal <br />
 endlocal : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/endlocal <br />
+type : https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/type <br />
 
 **_Windows Command Prompt related articles_** <br />
 Redirect Output from the Windows Command Line to a Text File by HELP DESK GEEK : https://helpdeskgeek.com/how-to/redirect-output-from-command-line-to-text-file/ <br />
